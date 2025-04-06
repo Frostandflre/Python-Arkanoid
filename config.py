@@ -1,0 +1,17 @@
+tick_rate = 16
+window_width = 1000
+window_height = 500
+window_title = "Арканоид"
+platform_width = 100
+platform_height = 10
+platform_velocity = 10
+background_color = [0,0,0]
+platform_color = [255,255,255]
+ball_color = [255,255,255]
+ball_radius = 10
+ball_velocity_x = 3
+ball_velocity_y = -3
+brick_width = 100
+brick_height = 20
+bricks_color = [255,255,255]
+game_over_color = [255,255,255]
